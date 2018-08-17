@@ -1,0 +1,19 @@
+.small{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.medium{
+    color: green;
+    border: 2px solid green;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.high{
+    border: 2px solid red;
+    color: red;
+    font-size: 20px;
+    border-radius: 5px;
+}
